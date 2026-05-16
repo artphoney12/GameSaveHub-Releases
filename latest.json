@@ -1,0 +1,15 @@
+{
+  "appName": "GameSave Hub",
+  "version": "1.0.0",
+  "releaseDate": "2026-05-16",
+  "serverPackage": "GameSaveHub.Server-v1.0.0.zip",
+  "clientPackage": "",
+  "serverSha256": "762AE8D4DD70D26E88207BDDFFB3D15AA7ACC4BD3BD3600ADD440EC206DAE452",
+  "clientSha256": "",
+  "isRequired": false,
+  "notes": [
+    "Initial GameSave Hub Server release.",
+    "Added dark blue cyan neon server interface.",
+    "Added user management, game list, settings, logs, and update checker."
+  ]
+}

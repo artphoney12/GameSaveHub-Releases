@@ -3,6 +3,6 @@
   "version": "1.5.5",
   "releaseDate": "2026-05-21",
   "serverPackage": "GameSaveHub.Server-v1.5.5.zip",
-  "serverSha256": "A2E247426906399AFC933F94454970639ABB2379B1382A2CC0ABD2DB7674A0C0",
-  "isRequired": false,
+  "serverSha256": "D642DAE17D12CDE3F8E7EDEDE5EA62ED97D5FE8B9D542B34EE3EEDD5262F073B",
+  "isRequired": false
 }

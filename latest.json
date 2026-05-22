@@ -1,8 +1,8 @@
 ﻿{
     "appName":  "GameSave Hub",
-    "version":  "1.6.1",
+    "version":  "1.6.2",
     "releaseDate":  "2026-05-22",
-    "serverPackage":  "GameSaveHub-v1.6.1.zip",
-    "serverSha256":  "9538d1c601706680e80eedfe445aa0825a686bc99d2c0aba25798a0210232827",
+    "serverPackage":  "GameSaveHub-v1.6.2.zip",
+    "serverSha256":  "43848d324afac6f1f17b31a9b9c34a6ac12c9c8a84c0e20dbe9fc44c62bea7e0",
     "isRequired":  false
 }
